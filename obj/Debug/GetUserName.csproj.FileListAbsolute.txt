@@ -1,0 +1,10 @@
+C:\Users\ensody\source\repos\GetUserName\GetUserName\bin\Debug\GetUserName.exe.config
+C:\Users\ensody\source\repos\GetUserName\GetUserName\bin\Debug\GetUserName.exe
+C:\Users\ensody\source\repos\GetUserName\GetUserName\bin\Debug\GetUserName.pdb
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.csprojAssemblyReference.cache
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.Form1.resources
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.Properties.Resources.resources
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.csproj.GenerateResource.cache
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.csproj.CoreCompileInputs.cache
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.exe
+C:\Users\ensody\source\repos\GetUserName\GetUserName\obj\Debug\GetUserName.pdb
